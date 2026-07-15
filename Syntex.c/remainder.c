@@ -9,7 +9,7 @@ int main(){
 
     //int q = a/b;
     int r = a%b;  //diviser*quotuent+remainder= divident.
-    printf("The remainder is : %d",r);
+    printf("The remainder is : %d",r);  //using mod operator
 
         return 0;
 
